@@ -43,7 +43,7 @@ Use the `train_model.py` script or Jupyter Notebook to train the models. This in
 - Saving the best model weights for evaluation
 
 
-## 📊 Evaluation and Results
+📊 Evaluation and Results
 
 Use `evaluate_model.py` or the notebook to evaluate the model. This script includes:
 
